@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://pratik:pratik123@mern-shard-00-00.3yoob.mongodb.net:27017,mern-shard-00-01.3yoob.mongodb.net:27017,mern-shard-00-02.3yoob.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-18svpm-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "mysecrecttoken",
+    "githubClientId": "3161ab7d45432b25ddbe",
+    "githubClientSecret": "d504a0c13de5c360fa1e0892d1f3d19a203549e3"
+}
