@@ -1,9 +1,0 @@
-axios > make http request, creating global headers and allow
-react-router-dom > router v4
-redux
-react-redux
-redux-thunk > middleware to allow async request on our action
-redux-dev-tools-extension 
-moment - format date and time 
-react-moment - to use moment within the component 
-
